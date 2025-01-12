@@ -4,7 +4,7 @@ A lightweight and efficient chunk loading system implemented in Unity, designed 
 
 ## Demo
 
-▶️ [Watch the demonstration video]((https://www.youtube.com/watch?v=x8vTvRrBjhM))
+▶️ [Watch the demonstration video](https://www.youtube.com/watch?v=x8vTvRrBjhM)
 
 ## Features
 
